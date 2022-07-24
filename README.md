@@ -3,7 +3,7 @@
  -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is Ahmed Soror and I'm a software developer. Here is my [LinkedIn profile](https://www.linkedin.com/in/ahmedsoror7) <a href="https://www.linkedin.com/in/ahmedsoror7/">
+This is Ahmed Soror and I'm a software engineer. Here is my [LinkedIn profile](https://www.linkedin.com/in/ahmedsoror7) <a href="https://www.linkedin.com/in/ahmedsoror7/">
 <img align="center"  src="https://github.com/AhmedSoror/AhmedSoror/raw/main/LinkedIn.png" width="18px">
 </a>
 
